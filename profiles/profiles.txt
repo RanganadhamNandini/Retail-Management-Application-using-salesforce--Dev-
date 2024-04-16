@@ -1,1 +1,31 @@
+NAME OF THE STUDENT : RANGANADHAM NANDINI
+LEARNING TRACK: DEVELOPER
+PROJECT NAME : Retail Management Application Using Salesforce(Dev)
+TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/nandiniranganadham
+DEVELOPER ORG USERNAME :ranganadhamnandini@gdctirupathi.com
+DEVELOPER ORG PASSWORD : Gayatri@123
+POSITION : Team Leader
 
+NAME OF THE STUDENT : VALLIGATLA SIREESHA
+LEARNING TRACK : DEVELOPER
+PROJECT NAME : Retail Management Application Using Salesforce(Dev)
+TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/sireeshavalligatla
+DEVELOPER ORG USERNAME : valligatlasireesha@gdcproject.com
+DEVELOPER ORG PASSWORD : Gayatri@123
+POSITION : Team member
+
+NAME OF THE STUDENT : SINGAMALA SHARISHMA
+LEARNING TRACK : DEVELOPER
+PROJECT NAME : Retail Management Application Using Salesforce(Dev)
+TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/sharishmasingamala
+DEVELOPER ORG USERNAME : s.sharishma@gdcproject.com
+DEVELOPER ORG PASSWORD : Mala@2801
+POSITION : Team member
+
+NAME OF THE STUDENT : T SREEJA
+LEARNING TRACK : ADMIN
+PROJECT NAME : Retail Management Application Using Salesforce(Dev)
+TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/pfodiuw6o9uotc8qqh
+DEVELOPER ORG USERNAME : gopiy910@gmail.com
+DEVELOPER ORG PASSWORD : Gayatri@123
+POSITION : Team member
