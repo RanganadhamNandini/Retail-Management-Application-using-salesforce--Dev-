@@ -18,7 +18,7 @@ NAME OF THE STUDENT : SINGAMALA SHARISHMA
 LEARNING TRACK : DEVELOPER
 PROJECT NAME : Retail Management Application Using Salesforce(Dev)
 TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/sharishmasingamala
-DEVELOPER ORG USERNAME : s.sharishma@gdcproject.com
+DEVELOPER ORG USERNAME : Cherry@gdcproject.com
 DEVELOPER ORG PASSWORD : Mala@2801
 POSITION : Team member
 
