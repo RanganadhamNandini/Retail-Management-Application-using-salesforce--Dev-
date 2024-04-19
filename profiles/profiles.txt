@@ -26,6 +26,6 @@ NAME OF THE STUDENT : T SREEJA
 LEARNING TRACK : ADMIN
 PROJECT NAME : Retail Management Application Using Salesforce(Dev)
 TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/pfodiuw6o9uotc8qqh
-DEVELOPER ORG USERNAME : gopiy910@gmail.com
-DEVELOPER ORG PASSWORD : Gayatri@123
+DEVELOPER ORG USERNAME : sreeja@gdcproject.com
+DEVELOPER ORG PASSWORD :  Gayatri@123
 POSITION : Team member
